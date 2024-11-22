@@ -1,0 +1,23 @@
+.icons{
+  height: 40px;
+  width: 40px;
+  background-color: blanchedalmond;
+  border-radius: 50%;
+  color: blue;
+  float: right;
+}
+.profile{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;  
+}
+table{
+  border-collapse: collapse;
+  margin-left: 50px;
+  border: 1px grey solid;
+  border-radius: 50px;
+}
+th, td {
+  padding: 30px; 
+  text-align: left; 
+}
